@@ -1,4 +1,4 @@
-######################## Logistic Regression Implementation in R ###################################
+######################## Logistic Regression Implementation in R using S3 class system ###################################
 
 
 # PART I ----------------------------------------------------------------------
